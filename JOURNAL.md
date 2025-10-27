@@ -17,7 +17,8 @@ myplan for tomorrow is to add the other legs and try to improve their design, an
 
 ## 10/27/2025 - Improved legs design  
 
-![Capture d'écran 2025-06-15 123242](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjA2MywicHVyIjoiYmxvYl9pZCJ9fQ==--f2fefe39f6bea629b9a1dd7a494fd6532bf689a6/Capture%20d'%C3%A9cran%202025-06-15%20123242.png)
+![Capture d'écran 2025-10-27 222031](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjA2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--ee547ec34eb7a882807fe6c1fd63365c4dbed5d1/Capture%20d'%C3%A9cran%202025-10-27%20222031.png)
+
 
 sooo, I'm very happy because I just finished the legs of the robot,
 i'm managed to make the leg a little longer so that the robot will be a little more detached from the ground? The only downside it's that now I'll have to start working on the electronics and the code, not because it's going to take a long time but because the code is complex, my plan is to use a PS4 controller (I don't have enough time to design one)  and add an ESP camera. I'm also going to add some holes in the center so that I can upgrade it in the future.   
