@@ -23,3 +23,9 @@ myplan for tomorrow is to add the other legs and try to improve their design, an
 sooo, I'm very happy because I just finished the legs of the robot,
 i'm managed to make the leg a little longer so that the robot will be a little more detached from the ground? The only downside it's that now I'll have to start working on the electronics and the code, not because it's going to take a long time but because the code is complex, my plan is to use a PS4 controller (I don't have enough time to design one)  and add an ESP camera. I'm also going to add some holes in the center so that I can upgrade it in the future.   
 
+## 10/28/2025 - CAD finished  
+
+Yippie, I've just finished the CAD, tomorrow I'm going to start working on the electronics.
+The plan is to add an esp32, an esp camera and the servos module. then if i've time i'm going to see if i can add anything else but for now i plan to keep it simple![Capture d'écran 2025-10-28 230127](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjM3NCwicHVyIjoiYmxvYl9pZCJ9fQ==--bd7fe0a416287103d2229e28f86c8cfea2d65b20/Capture%20d'%C3%A9cran%202025-10-28%20230127.png)
+  
+
